@@ -1,0 +1,12 @@
+{
+  "best_model_name": "CatBoost",
+  "optimal_threshold": 0.9330771824044091,
+  "precision_at_threshold": 1.0,
+  "recall_at_threshold": 0.55,
+  "f1_at_threshold": 0.709677,
+  "pr_auc": 0.755144,
+  "roc_auc": 0.994158,
+  "n_features": 50,
+  "missing_threshold": 0.5,
+  "variance_threshold": 0.01
+}

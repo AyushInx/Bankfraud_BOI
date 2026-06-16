@@ -1,0 +1,4 @@
+DataSet.csv
+catboost_info/*.tmp
+__pycache__/
+.ipynb_checkpoints/
